@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.8](https://github.com/joabssilveira/fwork-jsts-test/compare/v0.0.7...v0.0.8) (2026-08-13)
+
+
+### Bug Fixes
+
+* add comments ([22328f8](https://github.com/joabssilveira/fwork-jsts-test/commit/22328f8215eb7d2559719399c7acf96cb816a65f))
+* remove comments ([bcf6cda](https://github.com/joabssilveira/fwork-jsts-test/commit/bcf6cda250537be662fa0c672b9280e6ab702056))
+
 ### [0.0.7](https://github.com/joabssilveira/fwork-jsts-test/compare/v0.0.6...v0.0.7) (2026-08-13)
 
 

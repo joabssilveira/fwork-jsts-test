@@ -25,3 +25,5 @@ export const myArrowFunc = () => {
 export var myVar = undefined
 
 export const myConst = undefined
+
+// update 2
